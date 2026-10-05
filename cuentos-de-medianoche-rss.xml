@@ -8,6 +8,7 @@
     <language>es</language>
     <description>Un relato de terror original cada día. Historias de casas encantadas, objetos malditos, horror folclórico, terror psicológico y misterios inquietantes, narradas con voz profunda y dramática. Nuevas pesadillas todos los días.</description>
     <itunes:author>Flavio Garcia</itunes:author>
+    <itunes:image href="https://flaviocg1.github.io/cuentos-de-medianoche/cuentos-de-medianoche-logo.png"/>
     <itunes:summary>Un relato de terror original cada día. Historias de casas encantadas, objetos malditos, horror folclórico, terror psicológico y misterios inquietantes, narradas con voz profunda y dramática. Nuevas pesadillas todos los días.</itunes:summary>
     <itunes:category text="Fiction">
       <itunes:category text="Drama"/>
