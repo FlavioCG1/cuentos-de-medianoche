@@ -18,7 +18,15 @@
       <itunes:name>Flavio Garcia</itunes:name>
       <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 05 Oct 2026 14:09:10 +0000</lastBuildDate>
-
+    <lastBuildDate>Mon, 05 Oct 2026 14:18:40 +0000</lastBuildDate>
+    <item>
+      <title>La Estación Fantasma</title>
+      <description>Un trabajador del turno nocturno del metro de la Ciudad de México escucha por los altavoces el anuncio de una estación que no existe: El Olvido. Al investigar, descubre un tren que lleva décadas esperando pasajeros... y a su padre entre ellos.</description>
+      <pubDate>Mon, 05 Oct 2026 14:18:39 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1317162831485678/f70ba598-3672-49b2-b4ce-e8dded378b2b/ep-b18ed1f0-c87c-4bb0-87cc-91a69169d913.mp3" length="10383781" type="audio/mpeg"/>
+      <guid isPermaLink="false">335844fedccbaa5548e331eb1527afbe</guid>
+      <itunes:duration>0:21:37</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
   </channel>
 </rss>
