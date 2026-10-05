@@ -9,7 +9,6 @@
     <copyright>© 2026 Flavio Garcia. All rights reserved.</copyright>
     <description>Un relato de terror original cada día. Historias de casas encantadas, objetos malditos, horror folclórico, terror psicológico y misterios inquietantes, narradas con voz profunda y dramática. Nuevas pesadillas todos los días.</description>
     <itunes:author>Flavio Garcia</itunes:author>
-    <itunes:image href="https://flaviocg1.github.io/cuentos-de-medianoche/cuentos-de-medianoche-logo.png"/>
     <itunes:summary>Un relato de terror original cada día. Historias de casas encantadas, objetos malditos, horror folclórico, terror psicológico y misterios inquietantes, narradas con voz profunda y dramática. Nuevas pesadillas todos los días.</itunes:summary>
     <itunes:category text="Fiction">
       <itunes:category text="Drama"/>
@@ -20,8 +19,17 @@
       <itunes:name>Flavio Garcia</itunes:name>
       <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 05 Oct 2026 14:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:33:57 +0000</lastBuildDate>
     <item>
+      <title>Cuentos de Medianoche - Tráiler Oficial</title>
+      <description>Un relato de terror original cada día, de unos veinte minutos. Bienvenidos a Cuentos de Medianoche.</description>
+      <pubDate>Mon, 05 Oct 2026 16:33:52 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1317162831485678/f70ba598-3672-49b2-b4ce-e8dded378b2b/ep-7ab97142-0d37-48d7-b96b-54b88bc155cf.mp3" length="408613" type="audio/mpeg"/>
+      <guid isPermaLink="false">ec29b6a00994ed0464e253b16ed92ef0</guid>
+      <itunes:duration>0:00:51</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+<item>
       <title>La Estación Fantasma</title>
       <description>Un trabajador del turno nocturno del metro de la Ciudad de México escucha por los altavoces el anuncio de una estación que no existe: El Olvido. Al investigar, descubre un tren que lleva décadas esperando pasajeros... y a su padre entre ellos.</description>
       <pubDate>Mon, 05 Oct 2026 14:18:39 +0000</pubDate>
