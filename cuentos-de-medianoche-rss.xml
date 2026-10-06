@@ -9,8 +9,8 @@
     <copyright>© 2026 Flavio Garcia. All rights reserved.</copyright>
     <description>Un relato de terror original cada día. Historias de casas encantadas, objetos malditos, horror folclórico, terror psicológico y misterios inquietantes, narradas con voz profunda y dramática. Nuevas pesadillas todos los días.</description>
     <itunes:author>Flavio Garcia</itunes:author>
-    <itunes:image href="https://flaviocg1.github.io/cuentos-de-medianoche/cuentos-de-medianoche-logo.png"/>
     <itunes:summary>Un relato de terror original cada día. Historias de casas encantadas, objetos malditos, horror folclórico, terror psicológico y misterios inquietantes, narradas con voz profunda y dramática. Nuevas pesadillas todos los días.</itunes:summary>
+    <itunes:image href="https://flaviocg1.github.io/cuentos-de-medianoche/cuentos-de-medianoche-logo.png"/>
     <itunes:category text="Fiction">
       <itunes:category text="Drama"/>
     </itunes:category>
@@ -20,8 +20,17 @@
       <itunes:name>Flavio Garcia</itunes:name>
       <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 05 Oct 2026 16:33:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:42:11 +0000</lastBuildDate>
     <item>
+      <title>La Melodía Incompleta</title>
+      <description>Elena, profesora de piano en Madrid, hereda de su tía Soledad una misteriosa cajita de música cuya melodía incompleta gana una nota nueva cada noche a las 3:33 de la madrugada. Lo que parece una simple curiosidad se convierte en una pesadilla cuando descubre que esa melodía es la &quot;Canción de la Medianoche&quot;, la misma que en 1947 se llevó a siete niños de su pueblo natal. Cada noche que pasa, la canción se acerca a completarse… y cuando suene la última nota, vendrá a buscar a quien la haya estado escuchando.</description>
+      <pubDate>Tue, 06 Oct 2026 12:34:22 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1317162831485678/f70ba598-3672-49b2-b4ce-e8dded378b2b/ep-963bfed5-d9ee-47a8-9e06-39c17d1c2337.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">7de05ea7b6cc9802874850c4dd7fd382</guid>
+      <itunes:duration>0:23:46</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+<item>
       <title>Cuentos de Medianoche - Tráiler Oficial</title>
       <description>Un relato de terror original cada día, de unos veinte minutos. Bienvenidos a Cuentos de Medianoche.</description>
       <pubDate>Mon, 05 Oct 2026 16:33:52 +0000</pubDate>
