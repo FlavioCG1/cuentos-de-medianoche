@@ -20,8 +20,17 @@
       <itunes:name>Flavio Garcia</itunes:name>
       <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 07 Oct 2026 13:42:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:43:15 +0000</lastBuildDate>
     <item>
+      <title>El Diario del Faro</title>
+      <description>Un técnico llega a un faro remoto en la costa gallega y encuentra un diario de guardia escrito con su propia letra... con fecha de mañana. Cuentos de Medianoche, narrado por Silas.</description>
+      <pubDate>Thu, 08 Oct 2026 12:33:45 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1317162831485678/f70ba598-3672-49b2-b4ce-e8dded378b2b/ep-250c0079-2189-400d-8e77-b671ad73bbdd.mp3" length="11549605" type="audio/mpeg"/>
+      <guid isPermaLink="false">cda5cbe0310409076c0ca9dd30604e37</guid>
+      <itunes:duration>0:24:03</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+<item>
       <title>La Procesión de las Ánimas</title>
       <description>Una fotógrafa viaja al remoto pueblo gallego de A Corga para documentar la antigua procesión de las ánimas en la noche de Todos los Santos. Pero entre las filas de penitentes emerge una figura sin rostro que la llama por su nombre con la voz de su abuela muerta. Un relato de horror folclórico donde algunas tradiciones miran de vuelta.</description>
       <pubDate>Wed, 07 Oct 2026 12:32:19 +0000</pubDate>
