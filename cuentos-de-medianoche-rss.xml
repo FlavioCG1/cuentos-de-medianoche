@@ -20,8 +20,17 @@
       <itunes:name>Flavio Garcia</itunes:name>
       <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 11 Oct 2026 13:47:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 13:48:38 +0000</lastBuildDate>
     <item>
+      <title>El Espejo del Mañana</title>
+      <description>Lucía compra un espejo antiguo en La Lagunilla que muestra su departamento veinticuatro horas en el futuro. Al principio lo usa para esquivar pequeños desastres, hasta que una figura oscura empieza a acercarse, noche tras noche, hacia su cama.</description>
+      <pubDate>Mon, 12 Oct 2026 12:34:09 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1317162831485678/f70ba598-3672-49b2-b4ce-e8dded378b2b/ep-3832ad1b-eb44-4ffb-8543-55e1e615f7c1.mp3" length="11284069" type="audio/mpeg"/>
+      <guid isPermaLink="false">548fb2226880fcc08e58400271f8b03e</guid>
+      <itunes:duration>0:23:30</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+<item>
       <title>Las Campanas de la Muerte</title>
       <description>En un pueblo de la sierra de Oaxaca, una campana fundida con huesos nombra a los que van a morir tres días antes. Tomás Reyes hereda el oficio de campanero de su abuelo y descubre el precio de esquivar a la muerte... hasta que la campana dice su nombre.</description>
       <pubDate>Sun, 11 Oct 2026 12:35:12 +0000</pubDate>
