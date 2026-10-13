@@ -20,8 +20,17 @@
       <itunes:name>Flavio Garcia</itunes:name>
       <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 12 Oct 2026 13:48:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:43:10 +0000</lastBuildDate>
     <item>
+      <title>Lo que graba la selva</title>
+      <description>Rafael Domínguez, recordista de sonido, pasa un mes en una estación biológica en la Amazonía colombiana grabando el paisaje sonoro de la noche. Pero sus cintas empiezan a capturar algo imposible: las conversaciones del equipo antes de que ocurran, y una voz que ya se sabe su nombre.</description>
+      <pubDate>Tue, 13 Oct 2026 12:37:00 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1317162831485678/f70ba598-3672-49b2-b4ce-e8dded378b2b/ep-5f3d01b3-3613-421f-ade3-ef96bcb7cff0.mp3" length="12880549" type="audio/mpeg"/>
+      <guid isPermaLink="false">6b12d9036a7c056e03f9f84c420e040b</guid>
+      <itunes:duration>0:26:50</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+<item>
       <title>El Espejo del Mañana</title>
       <description>Lucía compra un espejo antiguo en La Lagunilla que muestra su departamento veinticuatro horas en el futuro. Al principio lo usa para esquivar pequeños desastres, hasta que una figura oscura empieza a acercarse, noche tras noche, hacia su cama.</description>
       <pubDate>Mon, 12 Oct 2026 12:34:09 +0000</pubDate>
