@@ -20,8 +20,17 @@
       <itunes:name>Flavio Garcia</itunes:name>
       <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 18 Oct 2026 13:40:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:40:57 +0000</lastBuildDate>
     <item>
+      <title>La Frecuencia de los Muertos</title>
+      <description>Ramiro Cárdenas conduce el programa nocturno de Radio Amanecer 91.1 FM en Morelia. Una madrugada, la línea 7 —desconectada desde 2015— empieza a recibir llamadas. Del otro lado, voces tranquilas anuncian dónde las encontrarán muertas a la mañana siguiente. Y la quinta llamada es su propia voz.</description>
+      <pubDate>Mon, 19 Oct 2026 12:43:05 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1317162831485678/f70ba598-3672-49b2-b4ce-e8dded378b2b/ep-96c1031e-ce1e-40f5-a7ef-7da3981a04e9.mp3" length="11047525" type="audio/mpeg"/>
+      <guid isPermaLink="false">470fc5d6e8728b484440a0d8a683e6d9</guid>
+      <itunes:duration>0:23:00</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+<item>
       <title>La Vecindad de las Ánimas</title>
       <description>Lucía Mendoza, enfermera del turno nocturno, renta el barato cuarto 7 de una vieja vecindad en Santa María la Ribera. Sus vecinos son cálidos y acogedores... pero solo salen de noche. Y en el altar del patio, las fotos de todos ellos llevan fechas de hace décadas.</description>
       <pubDate>Sun, 18 Oct 2026 12:34:53 +0000</pubDate>
