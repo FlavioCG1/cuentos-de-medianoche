@@ -20,8 +20,17 @@
       <itunes:name>Flavio Garcia</itunes:name>
       <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 25 Oct 2026 13:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:43:15 +0000</lastBuildDate>
     <item>
+      <title>El Nahual</title>
+      <description>Renata Quiroz, veterinaria en un pueblo de Tlaxcala, cura a un perro negro callejero que llegó de noche con una herida imposible. El perro sana demasiado rápido, sueña con los vecinos y dice su nombre con la voz de su hermano muerto. Episodio 22 de Cuentos de Medianoche.</description>
+      <pubDate>Mon, 26 Oct 2026 12:32:49 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1317162831485678/f70ba598-3672-49b2-b4ce-e8dded378b2b/ep-0046f67b-c0c3-4ff8-b19d-23af19040906.mp3" length="10123429" type="audio/mpeg"/>
+      <guid isPermaLink="false">e2c97dac93809996c48409f8caa7b34e</guid>
+      <itunes:duration>0:21:05</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+<item>
       <title>La Última Función</title>
       <description>La archivista Marina Solano restaura los rollos del demolido Cine Imperial de Zamora y proyecta la lata 17: una función de 1978 que nunca terminó, cuyo público sigue sumando espectadores. Una historia de Cuentos de Medianoche.</description>
       <pubDate>Sun, 25 Oct 2026 12:32:29 +0000</pubDate>
