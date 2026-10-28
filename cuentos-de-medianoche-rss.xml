@@ -20,8 +20,17 @@
       <itunes:name>Flavio Garcia</itunes:name>
       <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 27 Oct 2026 13:40:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 13:41:08 +0000</lastBuildDate>
     <item>
+      <title>El Mercado de los Recuerdos</title>
+      <description>La cocinera Inés Duarte compra en un mercado nocturno el recuerdo que le falta para perfeccionar el mole de su abuela. El precio no es dinero: es otro recuerdo, y el mercado cobra dos veces.</description>
+      <pubDate>Wed, 28 Oct 2026 12:32:55 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1317162831485678/f70ba598-3672-49b2-b4ce-e8dded378b2b/ep-e027e4c5-752b-497b-8a55-6edfbccde5fa.mp3" length="9913957" type="audio/mpeg"/>
+      <guid isPermaLink="false">cebcef9cdb5f33c9dd8469dba3ecc0be</guid>
+      <itunes:duration>0:20:39</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+<item>
       <title>La Sala de los Libros Inconclusos</title>
       <description>La bibliotecaria nocturna Mariana Solís descubre la Sala 7, donde los libros abandonados esperan a que alguien los termine, y descubre que el cuaderno número 200 cuenta su propia historia.</description>
       <pubDate>Tue, 27 Oct 2026 12:33:10 +0000</pubDate>
