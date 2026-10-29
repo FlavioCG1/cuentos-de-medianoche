@@ -20,8 +20,17 @@
       <itunes:name>Flavio Garcia</itunes:name>
       <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 28 Oct 2026 13:41:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:41:00 +0000</lastBuildDate>
     <item>
+      <title>La Mujer del Cuarto Frío</title>
+      <description>Sofía Arriaga, tanatopractora en Atlixco, recibe cada mes un cuerpo sin nombre en el cuarto frío de su funeraria. Los tres cuerpos tienen su rostro, en distintas edades. Y el cuarto frío no guarda muertos: guarda turnos.</description>
+      <pubDate>Thu, 29 Oct 2026 12:33:32 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1317162831485678/f70ba598-3672-49b2-b4ce-e8dded378b2b/ep-0eba79a0-b63f-4c3a-9d00-767a154485d5.mp3" length="10108645" type="audio/mpeg"/>
+      <guid isPermaLink="false">cd6c9570c884722fe6abbef6d9c0a815</guid>
+      <itunes:duration>0:21:03</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+<item>
       <title>El Mercado de los Recuerdos</title>
       <description>La cocinera Inés Duarte compra en un mercado nocturno el recuerdo que le falta para perfeccionar el mole de su abuela. El precio no es dinero: es otro recuerdo, y el mercado cobra dos veces.</description>
       <pubDate>Wed, 28 Oct 2026 12:32:55 +0000</pubDate>
