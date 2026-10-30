@@ -20,8 +20,17 @@
       <itunes:name>Flavio Garcia</itunes:name>
       <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 29 Oct 2026 13:41:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:41:08 +0000</lastBuildDate>
     <item>
+      <title>La Ofrenda Equivocada</title>
+      <description>Isabel Fuentes regresa a Mixquic para poner por primera vez la ofrenda de su abuela, pero escribe mal un nombre... y un nombre vacío en una ofrenda no se queda vacío: el canal siempre manda a alguien a ocuparlo.</description>
+      <pubDate>Fri, 30 Oct 2026 12:33:22 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1317162831485678/f70ba598-3672-49b2-b4ce-e8dded378b2b/ep-776c97f8-133d-458c-9f3d-873a95f7f4d8.mp3" length="10085029" type="audio/mpeg"/>
+      <guid isPermaLink="false">605ea01556900a11ca59ee855f847677</guid>
+      <itunes:duration>0:21:00</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+<item>
       <title>La Mujer del Cuarto Frío</title>
       <description>Sofía Arriaga, tanatopractora en Atlixco, recibe cada mes un cuerpo sin nombre en el cuarto frío de su funeraria. Los tres cuerpos tienen su rostro, en distintas edades. Y el cuarto frío no guarda muertos: guarda turnos.</description>
       <pubDate>Thu, 29 Oct 2026 12:33:32 +0000</pubDate>
