@@ -20,8 +20,17 @@
       <itunes:name>Flavio Garcia</itunes:name>
       <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 30 Oct 2026 13:41:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 13:41:03 +0000</lastBuildDate>
     <item>
+      <title>El Velador del Panteón</title>
+      <description>El velador nocturno del Panteón de Santa Paula, en Guanajuato, encuentra en el mausoleo Arriaga un libro que escribe los nombres de los vivos, y descubre que su hija es el próximo nombre de la lista.</description>
+      <pubDate>Sat, 31 Oct 2026 12:32:41 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1317162831485678/f70ba598-3672-49b2-b4ce-e8dded378b2b/ep-ef5f3f02-296c-492a-abac-fc1aa02c5586.mp3" length="10260709" type="audio/mpeg"/>
+      <guid isPermaLink="false">c7e147fdea59087a93e7226f66875366</guid>
+      <itunes:duration>0:21:22</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+<item>
       <title>La Ofrenda Equivocada</title>
       <description>Isabel Fuentes regresa a Mixquic para poner por primera vez la ofrenda de su abuela, pero escribe mal un nombre... y un nombre vacío en una ofrenda no se queda vacío: el canal siempre manda a alguien a ocuparlo.</description>
       <pubDate>Fri, 30 Oct 2026 12:33:22 +0000</pubDate>
