@@ -20,8 +20,17 @@
       <itunes:name>Flavio Garcia</itunes:name>
       <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 02 Nov 2026 14:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:41:25 +0000</lastBuildDate>
     <item>
+      <title>El Último Camión</title>
+      <description>Marisol Vega, limpiadora del turno de noche en Puebla, aborda un camión de la ruta 33 que fue cancelada en 2004. El pasaje no se paga con dinero, sino con recuerdos.</description>
+      <pubDate>Tue, 03 Nov 2026 13:33:53 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1317162831485678/f70ba598-3672-49b2-b4ce-e8dded378b2b/ep-09ac0ce5-f63b-49af-9842-f76b9853f556.mp3" length="10302181" type="audio/mpeg"/>
+      <guid isPermaLink="false">dccfefdb1d104e5ac93ff914c42b6a5e</guid>
+      <itunes:duration>0:21:27</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+<item>
       <title>El Pozo que Pide Nombres</title>
       <description>En El Saucillo, un pueblo con dos años de sequía, el pocero Ignacio Valdés reabre un pozo colonial sellado en 1891 que da agua abundante a cambio de nombres. Y el pozo ya empezó a cobrar.</description>
       <pubDate>Mon, 02 Nov 2026 13:33:04 +0000</pubDate>
