@@ -20,8 +20,17 @@
       <itunes:name>Flavio Garcia</itunes:name>
       <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 03 Nov 2026 14:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:41:46 +0000</lastBuildDate>
     <item>
+      <title>La Voz que No Era Mía</title>
+      <description>Valentina Ríos, actriz de doblaje en la Ciudad de México, acepta doblar una película mexicana de 1978 cuya protagonista desapareció durante el rodaje. Lo que se dobla, pasa.</description>
+      <pubDate>Wed, 04 Nov 2026 13:39:49 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1317162831485678/f70ba598-3672-49b2-b4ce-e8dded378b2b/ep-cb7780a2-0cad-46ae-a924-2083c6f1670e.mp3" length="10018597" type="audio/mpeg"/>
+      <guid isPermaLink="false">76e77badfd7f3b892048ecd5d83fb886</guid>
+      <itunes:duration>0:20:52</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+<item>
       <title>El Último Camión</title>
       <description>Marisol Vega, limpiadora del turno de noche en Puebla, aborda un camión de la ruta 33 que fue cancelada en 2004. El pasaje no se paga con dinero, sino con recuerdos.</description>
       <pubDate>Tue, 03 Nov 2026 13:33:53 +0000</pubDate>
