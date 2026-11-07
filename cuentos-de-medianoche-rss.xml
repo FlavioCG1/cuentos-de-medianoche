@@ -20,8 +20,17 @@
       <itunes:name>Flavio Garcia</itunes:name>
       <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 06 Nov 2026 14:41:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 14:41:39 +0000</lastBuildDate>
     <item>
+      <title>El Jardín de las Estatuas</title>
+      <description>Tomás Herrera acepta restaurar el jardín de una hacienda abandonada en Guanajuato y descubre diecisiete estatuas de piedra que se mueven de noche. El jardín lleva cien años esperando a su jardinero.</description>
+      <pubDate>Sat, 07 Nov 2026 13:36:02 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1317162831485678/f70ba598-3672-49b2-b4ce-e8dded378b2b/ep-f6dc9bb0-3b43-4354-8213-8e50ed55aae6.mp3" length="10082533" type="audio/mpeg"/>
+      <guid isPermaLink="false">41a3cf3b525f9925bf5434ce4786e742</guid>
+      <itunes:duration>0:21:00</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+<item>
       <title>El Reloj de las Trece</title>
       <description>Adriana Vega hereda la relojería de su abuelo en Taxco y descubre un reloj alto que da las trece campanadas a medianoche. El reloj no marca la hora: la cobra.</description>
       <pubDate>Fri, 06 Nov 2026 13:35:25 +0000</pubDate>
