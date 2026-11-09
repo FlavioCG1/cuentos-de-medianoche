@@ -20,7 +20,16 @@
       <itunes:name>Flavio Garcia</itunes:name>
       <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 08 Nov 2026 14:41:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:43:21 +0000</lastBuildDate>
+    <item>
+      <title>La Frecuencia de los Muertos</title>
+      <description>Álvaro Mendoza, locutor del programa nocturno de Radio Coral en Fresnillo, descubre que de noche la radio pertenece a los muertos: los que llaman piden canciones para sus difuntos, y una noche lo llaman a él mismo.</description>
+      <pubDate>Mon, 09 Nov 2026 13:35:12 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1317162831485678/f70ba598-3672-49b2-b4ce-e8dded378b2b/ep-7a225262-014c-4771-873a-3e773820706c.mp3" length="10316197" type="audio/mpeg"/>
+      <guid isPermaLink="false">659d1a883d972d48776a56a04185a9ef</guid>
+      <itunes:duration>0:21:29</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
     <item>
       <title>La Planta que No Existe</title>
       <description>Lucía Mendoza, enfermera del turno de noche en el Hospital San Rafael, descubre que el viejo ascensor se detiene en una planta trece que no existe, donde veintitrés pacientes llevan casi cincuenta años esperando su medicina.</description>
